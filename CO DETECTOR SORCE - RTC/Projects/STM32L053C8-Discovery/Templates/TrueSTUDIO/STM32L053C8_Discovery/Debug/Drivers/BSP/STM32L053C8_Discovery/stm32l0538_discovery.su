@@ -1,0 +1,14 @@
+stm32l0538_discovery.c:269:13:SPIx_Init	48	static
+stm32l0538_discovery.c:324:13:SPIx_Write	16	static
+stm32l0538_discovery.c:136:10:BSP_GetVersion	0	static
+stm32l0538_discovery.c:149:6:BSP_LED_Init	48	static
+stm32l0538_discovery.c:175:6:BSP_LED_On	8	static
+stm32l0538_discovery.c:188:6:BSP_LED_Off	8	static
+stm32l0538_discovery.c:201:6:BSP_LED_Toggle	8	static
+stm32l0538_discovery.c:217:6:BSP_PB_Init	32	static
+stm32l0538_discovery.c:254:10:BSP_PB_GetState	8	static
+stm32l0538_discovery.c:391:6:EPD_IO_Init	64	static
+stm32l0538_discovery.c:447:6:EPD_IO_WriteData	16	static
+stm32l0538_discovery.c:467:6:EPD_IO_WriteReg	16	static
+stm32l0538_discovery.c:487:10:EPD_IO_ReadData	24	static
+stm32l0538_discovery.c:504:6:EPD_Delay	8	static

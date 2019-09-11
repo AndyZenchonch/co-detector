@@ -1,0 +1,1 @@
+stm32l053c8_discovery\startup_stm32l051xx.o: startup_stm32l051xx.s
